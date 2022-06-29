@@ -1,0 +1,11 @@
+svg{
+    border: 1px solid gray;
+    }
+    .axis .domain{
+    stroke:gray;
+    }
+    .x line{
+    stroke: gray;
+    stroke-width: 0.5;
+    stroke-dasharray: 4,2;
+    }

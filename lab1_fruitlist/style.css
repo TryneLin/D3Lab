@@ -1,0 +1,38 @@
+body {
+    font-weight: bold;
+    margin: 2rem;
+}
+
+h3 {
+    font-weight: 100;
+    color: #555;
+    margin: 0.4rem 0;
+}
+
+p {
+    font-weight: 200;
+}
+
+svg {
+    border: 1px solid #ccc;
+}
+
+button {
+    font-size: larger;
+    outline: none;
+    color: #555;
+    border-color: #363636;
+    background: #fefefe;
+    padding: 20px 20px;
+    width: 120px;
+    text-align: center;
+    transition: all 200ms;
+}
+
+button:hover {
+    background: lightgoldenrodyellow;
+}
+
+button:focus {
+    background: lightpink;
+}

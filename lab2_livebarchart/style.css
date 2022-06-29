@@ -1,0 +1,22 @@
+svg{
+    border: 1px solid gray;
+    }
+    .axis .domain{
+    stroke:none;
+    }
+    .x line{
+    stroke: white;
+    }
+
+    
+button {
+    font-size: larger;
+    outline: none;
+    color: #555;
+    border-color: #363636;
+    background: #fefefe;
+    padding: 20px 20px;
+    width: 180px;
+    text-align: center;
+    transition: all 200ms;
+}
